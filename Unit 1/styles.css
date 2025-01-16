@@ -31,3 +31,9 @@ li {
 img {
     width: 150px;
 }
+.light {
+    background-color: white;
+}
+.dark {
+    background-color: #333;
+}
