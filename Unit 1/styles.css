@@ -1,4 +1,5 @@
 body {
+    background-color: white;
     font-size: 20px;
     font-family: "Times New Roman";
     text-align: center;
@@ -31,9 +32,13 @@ li {
 img {
     width: 150px;
 }
-.light {
-    background-color: white;
-}
-.dark {
+
+/* Dark theme */
+.dark{
     background-color: #333;
+    color: white;
+}
+
+.dark h2 {
+    color: #A0D4ED;
 }
